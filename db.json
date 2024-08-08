@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "HTML/CSS",
+      "isCompleted": false
+    },
+    {
+      "id": 2,
+      "title": "JavaScript ES6+",
+      "isCompleted": true
+    },
+    {
+      "id": 3,
+      "title": "React Hooks",
+      "isCompleted": false
+    },
+    {
+      "id": 4,
+      "title": "React Router DOM",
+      "isCompleted": true
+    },
+    {
+      "id": 5,
+      "title": "Redux Toolkit",
+      "isCompleted": false
+    },
+    {
+      "id": 6,
+      "title": "Asynchronous JavaScript",
+      "isCompleted": true
+    }
+  ]
+}
