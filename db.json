@@ -1,34 +1,24 @@
 {
   "todos": [
     {
-      "id": 1,
+      "id": "1",
       "title": "HTML/CSS",
       "isCompleted": false
     },
     {
-      "id": 2,
+      "id": "2",
       "title": "JavaScript ES6+",
       "isCompleted": true
     },
     {
-      "id": 3,
+      "id": "DGLtViW-vWXQ6VupXuaFu",
       "title": "React Hooks",
       "isCompleted": false
     },
     {
-      "id": 4,
-      "title": "React Router DOM",
-      "isCompleted": true
-    },
-    {
-      "id": 5,
-      "title": "Redux Toolkit",
+      "id": "s1R1vkIP8N04E-Yg265gr",
+      "title": "Asynchrunous ",
       "isCompleted": false
-    },
-    {
-      "id": 6,
-      "title": "Asynchronous JavaScript",
-      "isCompleted": true
     }
   ]
 }
